@@ -1,0 +1,6 @@
+RENCANA FRONT END
+
+- HTML
+* belajar dasar html , membuat form dan validasi dan convention best practice
+- CSS
+- JAVASCRIPT
