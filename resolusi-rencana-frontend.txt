@@ -5,3 +5,6 @@ RENCANA FRONT END
 - CSS
 * belajar basic css , making layout > float,positioning, display, box model, css grid, flex box
 - JAVASCRIPT
+- Framework Javascript
+* Angular
+* React
