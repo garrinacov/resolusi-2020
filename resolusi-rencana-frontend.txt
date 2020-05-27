@@ -3,4 +3,5 @@ RENCANA FRONT END
 - HTML
 * belajar dasar html , membuat form dan validasi dan convention best practice
 - CSS
+* belajar basic css , making layout > float,positioning, display, box model, css grid, flex box
 - JAVASCRIPT
