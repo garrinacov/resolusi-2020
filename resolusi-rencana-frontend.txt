@@ -8,3 +8,4 @@ RENCANA FRONT END
 - Bootstrap
 - Css framework
 - VueJS
+- ReactJS
